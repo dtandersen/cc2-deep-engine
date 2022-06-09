@@ -1,6 +1,6 @@
-# Sound of Silence
+# Deep Engine
 
-A Carrier Command 2 mod that reduces the deafening volume of the engine on the bridge.
+A deep, bassy engine sound mod for Carrier Command 2.
 
 # Development
 
